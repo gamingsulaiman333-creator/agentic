@@ -10,7 +10,7 @@ create_gmail_url,
 generate_email_with_gemini
 )
 
-from app:youtube import youtube_bp
+from app.youtube import youtube_bp
 
 def create_app():
 
